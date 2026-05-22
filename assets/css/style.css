@@ -155,10 +155,10 @@ padding-top: 5px;
 	letter-spacing: 2px;
 }
 .navbar-inverse :hover .navbar-brand:hover {
-	color: #000;	
+	color: #8F9779;	
 }
 .navbar-inverse .navbar-nav > li > a {
-color: #000;
+color: #8F9779;
 }
 .navbar-inverse {
 border-color: #D6D6D6;
